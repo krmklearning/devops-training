@@ -1,1 +1,2 @@
 This is first line
+my second line in myfile.txt
