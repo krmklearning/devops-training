@@ -1,3 +1,4 @@
 name: kumar
 city: hyderabad
 status: married
+job: IT employee
