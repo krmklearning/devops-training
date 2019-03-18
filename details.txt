@@ -1,0 +1,4 @@
+name: kumar
+city: vijayawada
+status: married
+job: IT employee
